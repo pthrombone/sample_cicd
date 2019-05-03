@@ -1,6 +1,6 @@
 {
   "name": "2019-3-20-react-testing-example",
-  "homepage" : "https://pthrombone.github.io/sample_cicd"
+  "homepage" : "https://pthrombone.github.io/sample_cicd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
